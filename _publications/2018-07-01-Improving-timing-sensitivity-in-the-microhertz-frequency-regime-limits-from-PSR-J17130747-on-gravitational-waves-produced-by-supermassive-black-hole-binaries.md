@@ -1,0 +1,14 @@
+---
+title: "Improving timing sensitivity in the microhertz frequency regime: limits from PSR J1713+0747 on gravitational waves produced by supermassive black hole binaries"
+collection: publications
+permalink: /publications/2018-07-01-Improving-timing-sensitivity-in-the-microhertz-frequency-regime-limits-from-PSR-J17130747-on-gravitational-waves-produced-by-supermassive-black-hole-binaries
+date: 2018-07-01
+venue: 'Monthly Notices of the RAS'
+paperdoi: '10.1093/mnras/sty1116'
+citation: ' B. Perera,  B. Stappers,  S. Babak,  M. Keith,  J. Antoniadis,  C. Bassa,  R. Caballero,  D. Champion,  I. Cognard,  G. Desvignes,  E. Graikou,  L. Guillemot,  G. Janssen,  R. Karuppusamy,  M. Kramer,  P. Lazarus,  L. Lentati,  K. Liu,  A. Lyne,  J. McKee,  S. Os&lstrok;owski,  D. Perrodin,  S. Sanidas,  A. Sesana,  <b>G. Shaifullah,</b>  G. Theureau,  J. Verbiest,  S. Taylor, &quot;Improving timing sensitivity in the microhertz frequency regime: limits from PSR J1713+0747 on gravitational waves produced by supermassive black hole binaries.&quot; Monthly Notices of the RAS, 2018.'
+authornames: ' B. Perera,  B. Stappers,  S. Babak,  M. Keith,  J. Antoniadis,  C. Bassa,  R. Caballero,  D. Champion,  I. Cognard,  G. Desvignes,  E. Graikou,  L. Guillemot,  G. Janssen,  R. Karuppusamy,  M. Kramer,  P. Lazarus,  L. Lentati,  K. Liu,  A. Lyne,  J. McKee,  S. Os&lstrok;owski,  D. Perrodin,  S. Sanidas,  A. Sesana,  <b>G. Shaifullah,</b>  G. Theureau,  J. Verbiest,  S. Taylor, '
+---
+Abstract:
+ We search for continuous gravitational waves (CGWs) produced by individual supermassive black hole binaries in circular orbits using high-cadence timing observations of PSR J1713+0747. We observe this millisecond pulsar using the telescopes in the European Pulsar Timing Array with an average cadence of approximately 1.6 d over the period between 2011 April and 2015 July, including an approximately daily average between 2013 February and 2014 April. The high-cadence observations are used to improve the pulsar timing sensitivity across the gravitational wave frequency range of 0.008-5ensuremathmuHz. We use two algorithms in the analysis, including a spectral fitting method and a Bayesian approach. For an independent comparison, we also use a previously published Bayesian algorithm. We find that the Bayesian approaches provide optimal results and the timing observations of the pulsar place a 95 per cent upper limit on the sky-averaged strain amplitude of CGWs to be ensuremathlesssim3.5 texttimes 10$^-13$ at a reference frequency of 1 ensuremathmuHz. We also find a 95 per cent upper limit on the sky-averaged strain amplitude of low-frequency CGWs to be ensuremathlesssim1.4 texttimes 10$^-14$ at a reference frequency of 20 nHz. 
+
+[Access paper here](https:/doi.org/10.1093/mnras/sty1116){:target="_blank"}

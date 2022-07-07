@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+<style type="text/css">
+ #dates { color: #808080; font-size: small; }
+</style>
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+<b><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a></b>  
+<span id="dates">{{ post.date | date: "%B, %Y in " }} {{ post.venue }}</span>  
+{{ post.citation | truncatewords: 2, " et al.," }}
+{% endfor %}
