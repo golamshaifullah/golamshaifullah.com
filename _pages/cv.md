@@ -266,7 +266,7 @@ and student, Pune, India
 
 [comment]: Dwingeloo, the Netherlands  
 
-[comment]: **Dr. Joris Verbiest** : <joris.verbiest@gmail.com>  
+[comment]: **Dr. Joris Verbiest** : <verbiest@phsyik.uni-bielefeld.de>  
 
 [comment]: Junior Professor, Bielefeld Universität, Bielefeld, Germany  
 
