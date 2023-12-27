@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Golam Shaifullah | Academic</title>
     <link>https://golamshaifullah.github.io/en/</link>
       <atom:link href="https://golamshaifullah.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Golam Shaifullah</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Golam Shaifullah</title>
       <link>https://golamshaifullah.github.io/en/</link>
     </image>
     
@@ -240,6 +240,15 @@
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The European Pulsar Timing Array</title>
+      <link>https://golamshaifullah.github.io/en/project/epta/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/project/epta/</guid>
+      <description>&lt;p&gt;I am an active member of the European Pulsar Timing Array and contribute through processing of pulsar data, combination of the data from the five telescopes of the EPTA and then subsequent analysis.&lt;/p&gt;
 </description>
     </item>
     
@@ -962,7 +971,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-826374195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-391248675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -972,7 +981,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-826374195&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-391248675&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

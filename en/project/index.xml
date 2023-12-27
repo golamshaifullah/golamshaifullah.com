@@ -5,12 +5,21 @@
     <link>https://golamshaifullah.github.io/en/project/</link>
       <atom:link href="https://golamshaifullah.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://golamshaifullah.github.io/en/project/</link>
     </image>
+    
+    <item>
+      <title>The European Pulsar Timing Array</title>
+      <link>https://golamshaifullah.github.io/en/project/epta/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/project/epta/</guid>
+      <description>&lt;p&gt;I am an active member of the European Pulsar Timing Array and contribute through processing of pulsar data, combination of the data from the five telescopes of the EPTA and then subsequent analysis.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>
