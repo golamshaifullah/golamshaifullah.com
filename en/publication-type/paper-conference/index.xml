@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>paper-conference | Academic</title>
-    <link>https://example.com/en/publication-type/paper-conference/</link>
-      <atom:link href="https://example.com/en/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://golamshaifullah.github.io/en/publication-type/paper-conference/</link>
+      <atom:link href="https://golamshaifullah.github.io/en/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>paper-conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
+      <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>paper-conference</title>
-      <link>https://example.com/en/publication-type/paper-conference/</link>
+      <link>https://golamshaifullah.github.io/en/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>European Pulsar Timing Array - Data Release 2.0</title>
-      <link>https://example.com/en/journal-article_bk/2022-tsra-conf-e-129-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-tsra-conf-e-129-s/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-tsra-conf-e-129-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-tsra-conf-e-129-s/</guid>
       <description></description>
     </item>
     

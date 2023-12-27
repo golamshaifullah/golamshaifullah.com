@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://example.com/en/</link>
-      <atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://golamshaifullah.github.io/en/</link>
+      <atom:link href="https://golamshaifullah.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
+      <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/en/</link>
+      <link>https://golamshaifullah.github.io/en/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/en/talk/example-talk/</link>
+      <link>https://golamshaifullah.github.io/en/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/en/talk/example-talk/</guid>
+      <guid>https://golamshaifullah.github.io/en/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,17 +34,17 @@
     
     <item>
       <title>A four-component mixing model reveals snowpack melting as early as March during the 2019 hydrological year in the Upper Ganga Basin</title>
-      <link>https://example.com/en/journal-article_bk/2024-j-hyd-62830473-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2024-j-hyd-62830473-s/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2024-j-hyd-62830473-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2024-j-hyd-62830473-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Matching Algorithm and Profile Shape on Pulsar Pulse Time of Arrival Uncertainties</title>
-      <link>https://example.com/en/publication/journal-articles/2023-12-2023raa....23l5020w/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023raa....23l5020w/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-12-2023raa....23l5020w/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023raa....23l5020w/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -55,9 +55,9 @@
     
     <item>
       <title>Practical approaches to analyzing PTA data: Cosmic strings with six pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2023-12-2023phrvd.108l3527q/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023phrvd.108l3527q/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-12-2023phrvd.108l3527q/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023phrvd.108l3527q/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -68,9 +68,9 @@
     
     <item>
       <title>Validation of global ionospheric models using long-term observations of pulsar Faraday rotation with the LOFAR radio telescope</title>
-      <link>https://example.com/en/publication/journal-articles/2023-12-2023jgeod..97..116p/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023jgeod..97..116p/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-12-2023jgeod..97..116p/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023jgeod..97..116p/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -81,9 +81,9 @@
     
     <item>
       <title>Validation of heliospheric modeling algorithms through pulsar observations I: Interplanetary scintillation-based tomography</title>
-      <link>https://example.com/en/publication/journal-articles/2023-12-2023adspr..72.5287t/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023adspr..72.5287t/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-12-2023adspr..72.5287t/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023adspr..72.5287t/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -94,9 +94,9 @@
     
     <item>
       <title>Validation of heliospheric modeling algorithms through pulsar observations II: Simulations with EUHFORIA</title>
-      <link>https://example.com/en/publication/journal-articles/2023-12-2023adspr..72.5298s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023adspr..72.5298s/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-12-2023adspr..72.5298s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-12-2023adspr..72.5298s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -107,9 +107,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/en/post/blog-with-jupyter/</link>
+      <link>https://golamshaifullah.github.io/en/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/blog-with-jupyter/</guid>
+      <guid>https://golamshaifullah.github.io/en/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -134,7 +134,7 @@
                /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;https://golamshaifullah.github.io/en/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -154,9 +154,9 @@
     
     <item>
       <title>Periodic interstellar scintillation variations of PSRs J0613-0200 and J0636&#43;5128 associated with the Local Bubble shell</title>
-      <link>https://example.com/en/publication/journal-articles/2023-11-2023scpma..6619512l/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-11-2023scpma..6619512l/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-11-2023scpma..6619512l/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-11-2023scpma..6619512l/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -167,9 +167,9 @@
     
     <item>
       <title>Second Data Release from the European Pulsar Timing Array: Challenging the Ultralight Dark Matter Paradigm</title>
-      <link>https://example.com/en/publication/journal-articles/2023-10-2023phrvl.131q1001s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023phrvl.131q1001s/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-10-2023phrvl.131q1001s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023phrvl.131q1001s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -180,9 +180,9 @@
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. I. The dataset and timing analysis</title>
-      <link>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..48e/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..48e/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..48e/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..48e/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -193,9 +193,9 @@
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. II. Customised pulsar noise models for spatially correlated gravitational waves</title>
-      <link>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..49e/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..49e/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..49e/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..49e/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -206,9 +206,9 @@
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. III. Search for gravitational wave signals</title>
-      <link>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..50e/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..50e/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-10-2023aa...678a..50e/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-10-2023aa...678a..50e/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -219,9 +219,9 @@
     
     <item>
       <title>Noise analysis of the Indian Pulsar Timing Array data release I</title>
-      <link>https://example.com/en/publication/journal-articles/2023-07-2023phrvd.108b3008s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-07-2023phrvd.108b3008s/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-07-2023phrvd.108b3008s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-07-2023phrvd.108b3008s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -232,9 +232,9 @@
     
     <item>
       <title>Searching for continuous Gravitational Waves in the second data release of the International Pulsar Timing Array</title>
-      <link>https://example.com/en/publication/journal-articles/2023-06-2023mnras.521.5077f/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-06-2023mnras.521.5077f/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-06-2023mnras.521.5077f/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-06-2023mnras.521.5077f/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -245,9 +245,9 @@
     
     <item>
       <title>Pulsar scintillation studies with LOFAR: II. Dual-frequency scattering study of PSR J0826&#43;2637 with LOFAR and NenuFAR</title>
-      <link>https://example.com/en/publication/journal-articles/2023-04-2023mnras.520.5536w/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2023-04-2023mnras.520.5536w/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2023-04-2023mnras.520.5536w/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2023-04-2023mnras.520.5536w/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -258,145 +258,145 @@
     
     <item>
       <title>Comparing recent PTA results on the nanohertz stochastic gravitational wave background</title>
-      <link>https://example.com/en/journal-article_bk/2023-ar-xiv-230900693-t/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230900693-t/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ar-xiv-230900693-t/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230900693-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Matching Algorithm and Profile Shape on Pulsar Pulse Time of Arrival Uncertainties</title>
-      <link>https://example.com/en/journal-article_bk/2023-raa-23-l-5020-w/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-raa-23-l-5020-w/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-raa-23-l-5020-w/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-raa-23-l-5020-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noise analysis of the Indian Pulsar Timing Array data release I</title>
-      <link>https://example.com/en/journal-article_bk/2023-ph-rv-d-108-b-3008-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-d-108-b-3008-s/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ph-rv-d-108-b-3008-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-d-108-b-3008-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periodic interstellar scintillation variations of PSRs J0613-0200 and J0636&#43;5128 associated with the Local Bubble shell</title>
-      <link>https://example.com/en/journal-article_bk/2023-scpma-6619512-l/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-scpma-6619512-l/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-scpma-6619512-l/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-scpma-6619512-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical approaches to analyzing PTA data: Cosmic strings with six pulsars</title>
-      <link>https://example.com/en/journal-article_bk/2023-ph-rv-d-108-l-3527-q/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-d-108-l-3527-q/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ph-rv-d-108-l-3527-q/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-d-108-l-3527-q/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulsar scintillation studies with LOFAR: II. Dual-frequency scattering study of PSR J0826&#43;2637 with LOFAR and NenuFAR</title>
-      <link>https://example.com/en/journal-article_bk/2023-mnras-520-5536-w/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-mnras-520-5536-w/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-mnras-520-5536-w/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-mnras-520-5536-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searching for continuous Gravitational Waves in the second data release of the International Pulsar Timing Array</title>
-      <link>https://example.com/en/journal-article_bk/2023-mnras-521-5077-f/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-mnras-521-5077-f/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-mnras-521-5077-f/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-mnras-521-5077-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second Data Release from the European Pulsar Timing Array: Challenging the Ultralight Dark Matter Paradigm</title>
-      <link>https://example.com/en/journal-article_bk/2023-ph-rv-l-131-q-1001-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-l-131-q-1001-s/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ph-rv-l-131-q-1001-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ph-rv-l-131-q-1001-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing strengths, limitations and biases of current Pulsar Timing Arrays detection analyses on realistic data</title>
-      <link>https://example.com/en/journal-article_bk/2023-ar-xiv-230913117-v/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230913117-v/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ar-xiv-230913117-v/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230913117-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of outliers on pulsar timing arrays</title>
-      <link>https://example.com/en/journal-article_bk/2023-ar-xiv-231101505-f/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-231101505-f/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ar-xiv-231101505-f/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-231101505-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The second data release from the European Pulsar Timing Array IV. Search for continuous gravitational wave signals</title>
-      <link>https://example.com/en/journal-article_bk/2023-ar-xiv-230616226-a/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230616226-a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ar-xiv-230616226-a/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230616226-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The second data release from the European Pulsar Timing Array: V. Implications for massive black holes, dark matter and the early Universe</title>
-      <link>https://example.com/en/journal-article_bk/2023-ar-xiv-230616227-a/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230616227-a/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ar-xiv-230616227-a/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ar-xiv-230616227-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. I. The dataset and timing analysis</title>
-      <link>https://example.com/en/journal-article_bk/2023-aa-678-a-48-e/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-48-e/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-aa-678-a-48-e/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-48-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. II. Customised pulsar noise models for spatially correlated gravitational waves</title>
-      <link>https://example.com/en/journal-article_bk/2023-aa-678-a-49-e/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-49-e/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-aa-678-a-49-e/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-49-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The second data release from the European Pulsar Timing Array. III. Search for gravitational wave signals</title>
-      <link>https://example.com/en/journal-article_bk/2023-aa-678-a-50-e/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-50-e/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-aa-678-a-50-e/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-aa-678-a-50-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of heliospheric modeling algorithms through pulsar observations I: Interplanetary scintillation-based tomography</title>
-      <link>https://example.com/en/journal-article_bk/2023-ad-sp-r-72-5287-t/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ad-sp-r-72-5287-t/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ad-sp-r-72-5287-t/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ad-sp-r-72-5287-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of heliospheric modeling algorithms through pulsar observations II: Simulations with EUHFORIA</title>
-      <link>https://example.com/en/journal-article_bk/2023-ad-sp-r-72-5298-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2023-ad-sp-r-72-5298-s/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2023-ad-sp-r-72-5298-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2023-ad-sp-r-72-5298-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust parameter estimation from pulsar timing data</title>
-      <link>https://example.com/en/publication/journal-articles/2022-11-2022mnras.517.1460s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-11-2022mnras.517.1460s/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-11-2022mnras.517.1460s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-11-2022mnras.517.1460s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -407,9 +407,9 @@
     
     <item>
       <title>The scintillating tail of comet C/2020 F3 &amp;lpar;Neowise&amp;rpar;</title>
-      <link>https://example.com/en/publication/journal-articles/2022-11-2022aa...667a..57f/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-11-2022aa...667a..57f/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-11-2022aa...667a..57f/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-11-2022aa...667a..57f/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -420,9 +420,9 @@
     
     <item>
       <title>European Pulsar Timing Array - Data Release 2.0</title>
-      <link>https://example.com/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -433,9 +433,9 @@
     
     <item>
       <title>Long-term scintillation studies of EPTA pulsars. I. Observations and basic results</title>
-      <link>https://example.com/en/publication/journal-articles/2022-08-2022aa...664a.116l/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-08-2022aa...664a.116l/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-08-2022aa...664a.116l/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-08-2022aa...664a.116l/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -446,9 +446,9 @@
     
     <item>
       <title>The International Pulsar Timing Array second data release: Search for an isotropic gravitational wave background</title>
-      <link>https://example.com/en/publication/journal-articles/2022-03-2022mnras.510.4873a/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-03-2022mnras.510.4873a/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-03-2022mnras.510.4873a/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-03-2022mnras.510.4873a/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -459,9 +459,9 @@
     
     <item>
       <title>Workshop on Gravitational-Wave Astrophysics for Early Career Scientists</title>
-      <link>https://example.com/en/publication/journal-articles/2022-03-2022natas...6..304b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-03-2022natas...6..304b/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-03-2022natas...6..304b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-03-2022natas...6..304b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -472,9 +472,9 @@
     
     <item>
       <title>A comparative analysis of pulse time-of-arrival creation methods</title>
-      <link>https://example.com/en/publication/journal-articles/2022-02-2022aa...658a.181w/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022aa...658a.181w/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-02-2022aa...658a.181w/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022aa...658a.181w/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -485,9 +485,9 @@
     
     <item>
       <title>Dual-frequency single-pulse study of PSR B0950&#43;08</title>
-      <link>https://example.com/en/publication/journal-articles/2022-02-2022aa...658a.143b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022aa...658a.143b/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-02-2022aa...658a.143b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022aa...658a.143b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -498,9 +498,9 @@
     
     <item>
       <title>Noise analysis in the European Pulsar Timing Array data release 2 and its implications on the gravitational-wave background search</title>
-      <link>https://example.com/en/publication/journal-articles/2022-02-2022mnras.509.5538c/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022mnras.509.5538c/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-02-2022mnras.509.5538c/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-02-2022mnras.509.5538c/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -511,81 +511,81 @@
     
     <item>
       <title>A comparative analysis of pulse time-of-arrival creation methods</title>
-      <link>https://example.com/en/journal-article_bk/2022-aa-658-a-181-w/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-658-a-181-w/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-aa-658-a-181-w/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-658-a-181-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual-frequency single-pulse study of PSR B0950&#43;08</title>
-      <link>https://example.com/en/journal-article_bk/2022-aa-658-a-143-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-658-a-143-b/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-aa-658-a-143-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-658-a-143-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>European Pulsar Timing Array - Data Release 2.0</title>
-      <link>https://example.com/en/journal-article_bk/2022-tsra-conf-e-129-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-tsra-conf-e-129-s/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-tsra-conf-e-129-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-tsra-conf-e-129-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Long-term scintillation studies of EPTA pulsars. I. Observations and basic results</title>
-      <link>https://example.com/en/journal-article_bk/2022-aa-664-a-116-l/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-664-a-116-l/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-aa-664-a-116-l/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-664-a-116-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noise analysis in the European Pulsar Timing Array data release 2 and its implications on the gravitational-wave background search</title>
-      <link>https://example.com/en/journal-article_bk/2022-mnras-509-5538-c/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-509-5538-c/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-mnras-509-5538-c/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-509-5538-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust parameter estimation from pulsar timing data</title>
-      <link>https://example.com/en/journal-article_bk/2022-mnras-517-1460-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-517-1460-s/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-mnras-517-1460-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-517-1460-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The International Pulsar Timing Array second data release: Search for an isotropic gravitational wave background</title>
-      <link>https://example.com/en/journal-article_bk/2022-mnras-510-4873-a/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-510-4873-a/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-mnras-510-4873-a/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-mnras-510-4873-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The scintillating tail of comet C/2020 F3 (Neowise)</title>
-      <link>https://example.com/en/journal-article_bk/2022-aa-667-a-57-f/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-667-a-57-f/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-aa-667-a-57-f/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-aa-667-a-57-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop on Gravitational-Wave Astrophysics for Early Career Scientists</title>
-      <link>https://example.com/en/journal-article_bk/2022-nat-as-6-304-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2022-nat-as-6-304-b/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2022-nat-as-6-304-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2022-nat-as-6-304-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Common-red-signal analysis with 24-yr high-precision timing of the European Pulsar Timing Array: inferences in the stochastic gravitational-wave background search</title>
-      <link>https://example.com/en/publication/journal-articles/2021-12-2021mnras.508.4970c/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2021-12-2021mnras.508.4970c/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2021-12-2021mnras.508.4970c/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2021-12-2021mnras.508.4970c/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -596,9 +596,9 @@
     
     <item>
       <title>Discovery and modelling of broad-scale plasma lensing in black-widow pulsar J2051 - 0827</title>
-      <link>https://example.com/en/publication/journal-articles/2021-09-2021mnras.506.2824l/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2021-09-2021mnras.506.2824l/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2021-09-2021mnras.506.2824l/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2021-09-2021mnras.506.2824l/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -609,9 +609,9 @@
     
     <item>
       <title>Pulsars with NenuFAR: Backend and pipelines</title>
-      <link>https://example.com/en/publication/journal-articles/2021-08-2021aa...652a..34b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2021-08-2021aa...652a..34b/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2021-08-2021aa...652a..34b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2021-08-2021aa...652a..34b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -622,9 +622,9 @@
     
     <item>
       <title>The impact of solar wind variability on pulsar timing</title>
-      <link>https://example.com/en/publication/journal-articles/2021-03-2021aa...647a..84t/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2021-03-2021aa...647a..84t/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2021-03-2021aa...647a..84t/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2021-03-2021aa...647a..84t/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -635,49 +635,49 @@
     
     <item>
       <title>Common-red-signal analysis with 24-yr high-precision timing of the European Pulsar Timing Array: inferences in the stochastic gravitational-wave background search</title>
-      <link>https://example.com/en/journal-article_bk/2021-mnras-508-4970-c/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2021-mnras-508-4970-c/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2021-mnras-508-4970-c/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2021-mnras-508-4970-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovery and modelling of broad-scale plasma lensing in black-widow pulsar J2051 - 0827</title>
-      <link>https://example.com/en/journal-article_bk/2021-mnras-506-2824-l/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2021-mnras-506-2824-l/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2021-mnras-506-2824-l/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2021-mnras-506-2824-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulsars with NenuFAR: Backend and pipelines</title>
-      <link>https://example.com/en/journal-article_bk/2021-aa-652-a-34-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2021-aa-652-a-34-b/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2021-aa-652-a-34-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2021-aa-652-a-34-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sampling the heliosphere through low-frequency observations of pulsars</title>
-      <link>https://example.com/en/journal-article_bk/2021-eguga-2314937-t/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2021-eguga-2314937-t/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2021-eguga-2314937-t/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2021-eguga-2314937-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The impact of solar wind variability on pulsar timing</title>
-      <link>https://example.com/en/journal-article_bk/2021-aa-647-a-84-t/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2021-aa-647-a-84-t/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2021-aa-647-a-84-t/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2021-aa-647-a-84-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/en/post/getting-started/</link>
+      <link>https://golamshaifullah.github.io/en/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/getting-started/</guid>
+      <guid>https://golamshaifullah.github.io/en/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -755,9 +755,9 @@
     
     <item>
       <title>CMEchaser, Detecting Line-of-Sight Occultations Due to Coronal Mass Ejections</title>
-      <link>https://example.com/en/publication/journal-articles/2020-10-2020soph..295..136s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2020-10-2020soph..295..136s/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2020-10-2020soph..295..136s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2020-10-2020soph..295..136s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -768,9 +768,9 @@
     
     <item>
       <title>The MeerKAT telescope as a pulsar facility: System verification and early science results from MeerTime</title>
-      <link>https://example.com/en/publication/journal-articles/2020-07-2020pasa...37...28b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2020-07-2020pasa...37...28b/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2020-07-2020pasa...37...28b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2020-07-2020pasa...37...28b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -781,9 +781,9 @@
     
     <item>
       <title>Timing stability of three black widow pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2020-05-2020mnras.494.2591b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2020-05-2020mnras.494.2591b/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2020-05-2020mnras.494.2591b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2020-05-2020mnras.494.2591b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -794,9 +794,9 @@
     
     <item>
       <title>A pulsar-based time-scale from the International Pulsar Timing Array</title>
-      <link>https://example.com/en/publication/journal-articles/2020-02-2020mnras.491.5951h/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2020-02-2020mnras.491.5951h/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2020-02-2020mnras.491.5951h/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2020-02-2020mnras.491.5951h/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -807,49 +807,49 @@
     
     <item>
       <title>A pulsar-based time-scale from the International Pulsar Timing Array</title>
-      <link>https://example.com/en/journal-article_bk/2020-mnras-491-5951-h/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2020-mnras-491-5951-h/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2020-mnras-491-5951-h/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2020-mnras-491-5951-h/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMEchaser, Detecting Line-of-Sight Occultations Due to Coronal Mass Ejections</title>
-      <link>https://example.com/en/journal-article_bk/2020-so-ph-295-136-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2020-so-ph-295-136-s/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2020-so-ph-295-136-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2020-so-ph-295-136-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMEchaser: Coronal Mass Ejection line-of-sight occultation detector</title>
-      <link>https://example.com/en/journal-article_bk/2020-ascl-soft-08015-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2020-ascl-soft-08015-s/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2020-ascl-soft-08015-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2020-ascl-soft-08015-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The MeerKAT telescope as a pulsar facility: System verification and early science results from MeerTime</title>
-      <link>https://example.com/en/journal-article_bk/2020-pasa-37-28-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2020-pasa-37-28-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2020-pasa-37-28-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2020-pasa-37-28-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing stability of three black widow pulsars</title>
-      <link>https://example.com/en/journal-article_bk/2020-mnras-494-2591-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2020-mnras-494-2591-b/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2020-mnras-494-2591-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2020-mnras-494-2591-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The International Pulsar Timing Array: second data release</title>
-      <link>https://example.com/en/publication/journal-articles/2019-12-2019mnras.490.4666p/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2019-12-2019mnras.490.4666p/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2019-12-2019mnras.490.4666p/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2019-12-2019mnras.490.4666p/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -860,9 +860,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/en/post/writing-technical-content/</link>
+      <link>https://golamshaifullah.github.io/en/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/writing-technical-content/</guid>
+      <guid>https://golamshaifullah.github.io/en/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -962,7 +962,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-456873291&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-826374195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -972,7 +972,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-456873291&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-826374195&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1254,9 +1254,9 @@ Crash --&gt; [*]
     
     <item>
       <title>On the usefulness of existing solar wind models for pulsar timing corrections</title>
-      <link>https://example.com/en/publication/journal-articles/2019-07-2019mnras.487..394t/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2019-07-2019mnras.487..394t/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2019-07-2019mnras.487..394t/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2019-07-2019mnras.487..394t/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1267,9 +1267,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/en/slides/example/</link>
+      <link>https://golamshaifullah.github.io/en/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/slides/example/</guid>
+      <guid>https://golamshaifullah.github.io/en/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1392,25 +1392,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>On the usefulness of existing solar wind models for pulsar timing corrections</title>
-      <link>https://example.com/en/journal-article_bk/2019-mnras-487-394-t/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-487-394-t/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2019-mnras-487-394-t/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-487-394-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tests of gravitational symmetries with pulsar binary J1713&#43;0747</title>
-      <link>https://example.com/en/journal-article_bk/2019-mnras-482-3249-z/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-482-3249-z/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2019-mnras-482-3249-z/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-482-3249-z/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tests of gravitational symmetries with pulsar binary J1713&#43;0747</title>
-      <link>https://example.com/en/publication/journal-articles/2019-01-2019mnras.482.3249z/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2019-01-2019mnras.482.3249z/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2019-01-2019mnras.482.3249z/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2019-01-2019mnras.482.3249z/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1421,17 +1421,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>The International Pulsar Timing Array: second data release</title>
-      <link>https://example.com/en/journal-article_bk/2019-mnras-490-4666-p/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-490-4666-p/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2019-mnras-490-4666-p/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2019-mnras-490-4666-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studying the Solar system with the International Pulsar Timing Array</title>
-      <link>https://example.com/en/publication/journal-articles/2018-12-2018mnras.481.5501c/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2018-12-2018mnras.481.5501c/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2018-12-2018mnras.481.5501c/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2018-12-2018mnras.481.5501c/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1442,9 +1442,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Improving timing sensitivity in the microhertz frequency regime: limits from PSR J1713&#43;0747 on gravitational waves produced by supermassive black hole binaries</title>
-      <link>https://example.com/en/publication/journal-articles/2018-07-2018mnras.478..218p/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2018-07-2018mnras.478..218p/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2018-07-2018mnras.478..218p/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2018-07-2018mnras.478..218p/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1455,9 +1455,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Measurement uncertainty in pulsar timing array experiments</title>
-      <link>https://example.com/en/publication/journal-articles/2018-07-2018cqgra..35m3001v/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2018-07-2018cqgra..35m3001v/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2018-07-2018cqgra..35m3001v/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2018-07-2018cqgra..35m3001v/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1467,10 +1467,28 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>https://golamshaifullah.github.io/en/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://golamshaifullah.github.io/en/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://golamshaifullah.github.io/en/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://golamshaifullah.github.io/en/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multifrequency behaviour of the anomalous events of PSR J0922&#43;0638</title>
-      <link>https://example.com/en/publication/journal-articles/2018-06-2018mnras.477l..25s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2018-06-2018mnras.477l..25s/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2018-06-2018mnras.477l..25s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2018-06-2018mnras.477l..25s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1481,41 +1499,41 @@ $$&lt;/p&gt;
     
     <item>
       <title>Improving timing sensitivity in the microhertz frequency regime: limits from PSR J1713&#43;0747 on gravitational waves produced by supermassive black hole binaries</title>
-      <link>https://example.com/en/journal-article_bk/2018-mnras-478-218-p/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-478-218-p/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2018-mnras-478-218-p/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-478-218-p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement uncertainty in pulsar timing array experiments</title>
-      <link>https://example.com/en/journal-article_bk/2018-cq-gra-35-m-3001-v/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2018-cq-gra-35-m-3001-v/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2018-cq-gra-35-m-3001-v/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2018-cq-gra-35-m-3001-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multifrequency behaviour of the anomalous events of PSR J0922&#43;0638</title>
-      <link>https://example.com/en/journal-article_bk/2018-mnras-477-l-25-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-477-l-25-s/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2018-mnras-477-l-25-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-477-l-25-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studying the Solar system with the International Pulsar Timing Array</title>
-      <link>https://example.com/en/journal-article_bk/2018-mnras-481-5501-c/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-481-5501-c/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2018-mnras-481-5501-c/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2018-mnras-481-5501-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2017-05-2017phdt.......182s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2017-05-2017phdt.......182s/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2017-05-2017phdt.......182s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2017-05-2017phdt.......182s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1526,33 +1544,33 @@ $$&lt;/p&gt;
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/journal-article_bk/2017-ph-dt-182-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2017-ph-dt-182-s/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2017-ph-dt-182-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2017-ph-dt-182-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/journal-article_bk/2017-ph-dt-531-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2017-ph-dt-531-s/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2017-ph-dt-531-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2017-ph-dt-531-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VizieR Online Data Catalog: 42 millisecond pulsars high-precision timing (Desvignes&#43;, 2016)</title>
-      <link>https://example.com/en/journal-article_bk/2017-y-cat-74583341-d/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2017-y-cat-74583341-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2017-y-cat-74583341-d/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2017-y-cat-74583341-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>21 year timing of the black-widow pulsar J2051-0827</title>
-      <link>https://example.com/en/publication/journal-articles/2016-10-2016mnras.462.1029s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-10-2016mnras.462.1029s/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-10-2016mnras.462.1029s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-10-2016mnras.462.1029s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1563,9 +1581,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>A glitch in the millisecond pulsar J0613-0200</title>
-      <link>https://example.com/en/publication/journal-articles/2016-09-2016mnras.461.2809m/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-09-2016mnras.461.2809m/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-09-2016mnras.461.2809m/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-09-2016mnras.461.2809m/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1576,9 +1594,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>A millisecond pulsar in an extremely wide binary system</title>
-      <link>https://example.com/en/publication/journal-articles/2016-08-2016mnras.460.2207b/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-08-2016mnras.460.2207b/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-08-2016mnras.460.2207b/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-08-2016mnras.460.2207b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1589,9 +1607,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>From spin noise to systematics: stochastic processes in the first International Pulsar Timing Array data release</title>
-      <link>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.2161l/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.2161l/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.2161l/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.2161l/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1602,9 +1620,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>High-precision timing of 42 millisecond pulsars with the European Pulsar Timing Array</title>
-      <link>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.3341d/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.3341d/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.3341d/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.3341d/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1615,9 +1633,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>The International Pulsar Timing Array: First data release</title>
-      <link>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.1267v/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.1267v/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-05-2016mnras.458.1267v/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-05-2016mnras.458.1267v/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1628,9 +1646,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/en/project/example/</link>
+      <link>https://golamshaifullah.github.io/en/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/project/example/</guid>
+      <guid>https://golamshaifullah.github.io/en/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1641,17 +1659,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/en/project/external-project/</link>
+      <link>https://golamshaifullah.github.io/en/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/project/external-project/</guid>
+      <guid>https://golamshaifullah.github.io/en/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The noise properties of 42 millisecond pulsars from the European Pulsar Timing Array and their impact on gravitational-wave searches</title>
-      <link>https://example.com/en/publication/journal-articles/2016-04-2016mnras.457.4421c/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2016-04-2016mnras.457.4421c/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2016-04-2016mnras.457.4421c/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2016-04-2016mnras.457.4421c/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -1662,65 +1680,65 @@ $$&lt;/p&gt;
     
     <item>
       <title>21 year timing of the black-widow pulsar J2051-0827</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-462-1029-s/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-462-1029-s/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-462-1029-s/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-462-1029-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A glitch in the millisecond pulsar J0613-0200</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-461-2809-m/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-461-2809-m/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-461-2809-m/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-461-2809-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A millisecond pulsar in an extremely wide binary system</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-460-2207-b/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-460-2207-b/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-460-2207-b/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-460-2207-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From spin noise to systematics: stochastic processes in the first International Pulsar Timing Array data release</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-458-2161-l/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-2161-l/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-458-2161-l/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-2161-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-precision timing of 42 millisecond pulsars with the European Pulsar Timing Array</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-458-3341-d/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-3341-d/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-458-3341-d/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-3341-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The International Pulsar Timing Array: First data release</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-458-1267-v/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-1267-v/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-458-1267-v/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-458-1267-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The noise properties of 42 millisecond pulsars from the European Pulsar Timing Array and their impact on gravitational-wave searches</title>
-      <link>https://example.com/en/journal-article_bk/2016-mnras-457-4421-c/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-457-4421-c/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/2016-mnras-457-4421-c/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/2016-mnras-457-4421-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The noise properties of 42 millisecond pulsars from the European Pulsar Timing Array and their impact on gravitational-wave searches</title>
-      <link>https://example.com/en/journal-article_bk/nindex/</link>
+      <link>https://golamshaifullah.github.io/en/journal-article_bk/nindex/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/journal-article_bk/nindex/</guid>
+      <guid>https://golamshaifullah.github.io/en/journal-article_bk/nindex/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -5148,9 +5166,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2017-00-2017phdt.......531s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2017-00-2017phdt.......531s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2017-00-2017phdt.......531s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2017-00-2017phdt.......531s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

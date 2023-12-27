@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phdthesis | Academic</title>
-    <link>https://example.com/en/publication-type/phdthesis/</link>
-      <atom:link href="https://example.com/en/publication-type/phdthesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://golamshaifullah.github.io/en/publication-type/phdthesis/</link>
+      <atom:link href="https://golamshaifullah.github.io/en/publication-type/phdthesis/index.xml" rel="self" type="application/rss+xml" />
     <description>phdthesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
+      <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>phdthesis</title>
-      <link>https://example.com/en/publication-type/phdthesis/</link>
+      <link>https://golamshaifullah.github.io/en/publication-type/phdthesis/</link>
     </image>
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2017-05-2017phdt.......182s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2017-05-2017phdt.......182s/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2017-05-2017phdt.......182s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2017-05-2017phdt.......182s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
@@ -27,9 +27,9 @@
     
     <item>
       <title>Timing and properties of recycled pulsars</title>
-      <link>https://example.com/en/publication/journal-articles/2017-00-2017phdt.......531s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2017-00-2017phdt.......531s/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2017-00-2017phdt.......531s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2017-00-2017phdt.......531s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.

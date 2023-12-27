@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Academic</title>
-    <link>https://example.com/en/categories/</link>
-      <atom:link href="https://example.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://golamshaifullah.github.io/en/categories/</link>
+      <atom:link href="https://golamshaifullah.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
+      <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>https://example.com/en/categories/</link>
+      <link>https://golamshaifullah.github.io/en/categories/</link>
     </image>
     
   </channel>

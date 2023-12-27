@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inproceedings | Academic</title>
-    <link>https://example.com/en/publication-type/inproceedings/</link>
-      <atom:link href="https://example.com/en/publication-type/inproceedings/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://golamshaifullah.github.io/en/publication-type/inproceedings/</link>
+      <atom:link href="https://golamshaifullah.github.io/en/publication-type/inproceedings/index.xml" rel="self" type="application/rss+xml" />
     <description>inproceedings</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
+      <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>inproceedings</title>
-      <link>https://example.com/en/publication-type/inproceedings/</link>
+      <link>https://golamshaifullah.github.io/en/publication-type/inproceedings/</link>
     </image>
     
     <item>
       <title>European Pulsar Timing Array - Data Release 2.0</title>
-      <link>https://example.com/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</link>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</guid>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2022-09-2022tsra.confe.129s/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
