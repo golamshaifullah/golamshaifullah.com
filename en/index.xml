@@ -33,11 +33,37 @@
     </item>
     
     <item>
+      <title>A Gaussian-processes approach to fitting for time-variable spherical solar wind in pulsar timing data</title>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2024-02-2024mnras.528.3304n/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2024-02-2024mnras.528.3304n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A four-component mixing model reveals snowpack melting as early as March during the 2019 hydrological year in the Upper Ganga Basin</title>
       <link>https://golamshaifullah.github.io/en/journal-article_bk/2024-j-hyd-62830473-s/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://golamshaifullah.github.io/en/journal-article_bk/2024-j-hyd-62830473-s/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Gaussian-processes approach to fitting for time-variable spherical solar wind in pulsar timing data</title>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2024-01-2024mnras.tmp..208n/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2024-01-2024mnras.tmp..208n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -971,7 +997,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-193257846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-431872659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -981,7 +1007,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-193257846&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-431872659&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1472,24 +1498,6 @@ $$&lt;/p&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://golamshaifullah.github.io/en/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://golamshaifullah.github.io/en/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://golamshaifullah.github.io/en/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://golamshaifullah.github.io/en/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     

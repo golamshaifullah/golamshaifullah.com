@@ -5,12 +5,38 @@
     <link>https://golamshaifullah.github.io/en/publication-type/article/</link>
       <atom:link href="https://golamshaifullah.github.io/en/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://golamshaifullah.github.io/media/icon_hu6cee06e59cbf131ebcf1b0ad2504c4df_164525_512x512_fill_lanczos_center_3.png</url>
       <title>article</title>
       <link>https://golamshaifullah.github.io/en/publication-type/article/</link>
     </image>
+    
+    <item>
+      <title>A Gaussian-processes approach to fitting for time-variable spherical solar wind in pulsar timing data</title>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2024-02-2024mnras.528.3304n/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2024-02-2024mnras.528.3304n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Gaussian-processes approach to fitting for time-variable spherical solar wind in pulsar timing data</title>
+      <link>https://golamshaifullah.github.io/en/publication/journal-articles/2024-01-2024mnras.tmp..208n/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://golamshaifullah.github.io/en/publication/journal-articles/2024-01-2024mnras.tmp..208n/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to import publication metadata into your reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Effect of Matching Algorithm and Profile Shape on Pulsar Pulse Time of Arrival Uncertainties</title>
